@@ -8,6 +8,7 @@ export const SUPPORTED_CURRENCIES: CurrencyConfig[] = [
   { code: 'AUD', symbol: 'A$', name: 'Australian Dollar', exchangeRateToUSD: 0.65 },
   { code: 'CAD', symbol: 'C$', name: 'Canadian Dollar', exchangeRateToUSD: 0.72 },
   { code: 'JPY', symbol: '¥', name: 'Japanese Yen', exchangeRateToUSD: 0.0065 },
+  { code: 'MYR', symbol: 'RM', name: 'Malaysian Ringgit', exchangeRateToUSD: 0.24 },
 ];
 
 export function getCurrencyConfig(code: string): CurrencyConfig {
