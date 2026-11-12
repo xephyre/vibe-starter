@@ -1,0 +1,6 @@
+{
+  "name": "MyBestSPA",
+  "description": "Subscription Personal Assistant to track online and offline subscriptions, notice periods, renewal deadlines, and recurring spend across Personal, Family, and Organization workspaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
